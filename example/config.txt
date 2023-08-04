@@ -1,0 +1,2 @@
+Prefix plugins/Dice/example/
+Plugin Dice inputfile table.qza outputfile beta_diversity.qza
